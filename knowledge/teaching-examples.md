@@ -1,146 +1,142 @@
-# Teaching Examples
+# Teaching Examples (English)
 
-Few-shot examples extracted from the Language Transfer transcript. These demonstrate the teaching STYLE — how to guide discovery, build sentences, and handle errors. The tutor should generate its own original dialogue following these patterns.
+Few-shot examples demonstrating the teaching STYLE — how to guide discovery, build sentences, and handle errors in an English learning context.
 
 ---
 
 ## Example 1: Pattern Discovery (Cognate Rule)
 
-> **Teacher**: So words ending in -al tend to come from Latin, and we can make them Spanish. For example, "normal" in Spanish is... normal. What do you notice?  
-> **Student**: The accent is different.  
-> **Teacher**: Exactly! Where's it stressed in English?  
-> **Student**: On the O. NORmal.  
-> **Teacher**: And in Spanish?  
-> **Student**: NorMAL.  
-> **Teacher**: So if the same happens with other words, how would you say "metal"?  
-> **Student**: Metal.  
-> **Teacher**: Metal. Perfect.
+> **Teacher**: Many words ending in "-tion" are nouns that describe a process. For example, "creation." What do you notice about the ending?  
+> **Student**: It has that "shun" sound.  
+> **Teacher**: Exactly! Now, if you want the *action* — the verb — you often just take off that ending and add an "-e." So what is the verb for "creation"?  
+> **Student**: Create?  
+> **Teacher**: Perfect! Now, if "completion" is the noun... what is the verb?  
+> **Student**: Complete?  
+> **Teacher**: You've got it.
 
-**What this demonstrates**: Never state the rule. Ask a question → student notices the pattern → apply it.
+**What this demonstrates**: Never state the rule. Ask a question → student notices the pattern → apply it to build vocabulary.
 
 ---
 
 ## Example 2: Verb Derivation Chain
 
-> **Teacher**: What was "preparation"?  
-> **Student**: Preparación.  
-> **Teacher**: Good. Now, if you take off the "-tion" and put an "-r" on the end, you get the verb. What's "to prepare"?  
-> **Student**: Preparar.  
-> **Teacher**: So what about "confirmation"?  
-> **Student**: Confirmación.  
-> **Teacher**: And "to confirm"?  
-> **Student**: Confirmar.  
-> **Teacher**: Now, if "to confirm" means "with signing"... "con" is "with" and "firma" is signature... how do you think you'd say "to sign"?  
-> **Student**: Oh, firmar!  
-> **Teacher**: Yes!
+> **Teacher**: We just saw "create." If we want to describe someone who *is* create... we add "-ive." So a person who creates is...  
+> **Student**: Creative?  
+> **Teacher**: Yes! And the quality of being creative is "creativity." Can you see the chain? Create, creation, creative, creativity.  
+> **Student**: It's like a family of words.  
+> **Teacher**: Exactly. So if you know one, you can find the others. What about "produce"?  
+> **Student**: Production? Productive?  
+> **Teacher**: There you go. You're building your own dictionary.
 
-**What this demonstrates**: Derivation chain → etymology → student *discovers* a word they were never taught.
+**What this demonstrates**: Derivation chain → building multiple words from one root.
 
 ---
 
 ## Example 3: Block-by-Block Sentence Building
 
-> **Teacher**: I want to know why you have to stay here. Let's not panic. First bit: "I want."  
-> **Student**: Quiero.  
-> **Teacher**: Good. "To know":  
-> **Student**: Saber.  
-> **Teacher**: Good. Now forget that. "Why":  
-> **Student**: Por qué.  
-> **Teacher**: "You have to stay here":  
-> **Student**: Tienes que quedarte aquí.  
-> **Teacher**: Now put it all together:  
-> **Student**: Quiero saber por qué tienes que quedarte aquí.  
-> **Teacher**: Perfect.
+> **Teacher**: "I have been working here for ten years." That's a long sentence. Let's build it. First bit: "I have been."  
+> **Student**: I have been.  
+> **Teacher**: Good. Now, the action of "work" but happening over time... add "-ing."  
+> **Student**: Working.  
+> **Teacher**: "Here":  
+> **Student**: Here.  
+> **Teacher**: Now, for the duration of "ten years"... we use "for."  
+> **Student**: For ten years.  
+> **Teacher**: Now put it all together.  
+> **Student**: I have been working here for ten years.  
+> **Teacher**: Perfect. You just built a complex English tense without even naming it.
 
-**What this demonstrates**: Break complex sentences into blocks. "Don't think about the whole sentence."
+**What this demonstrates**: Break complex sentences into blocks. Don't think about the whole thing at once.
 
 ---
 
 ## Example 4: Gentle Error Correction
 
-> **Teacher**: How would you say "cultural"?  
-> **Student**: Culturial?  
-> **Teacher**: Think about how it's written.  
-> **Student**: Cultural?  
-> **Teacher**: Yes. Perfect Spanish accent there.
+> **Teacher**: How would you say "He like coffee"?  
+> **Student**: He like coffee?  
+> **Teacher**: Think about that special "s" we need for one person.  
+> **Student**: Oh! He likes coffee.  
+> **Teacher**: Yes. That "s" is like a little flag for "he" or "she."
 
-**What this demonstrates**: Don't say "wrong." Redirect to the right thinking process. Let them self-correct.
+**What this demonstrates**: Don't say "wrong." Redirect to the right thinking process.
 
 ---
 
 ## Example 5: Handling "I Forgot"
 
-> **Student**: I've already forgotten what "trying" is.  
-> **Teacher**: So it's not about remembering, it's about knowing how to find it. What was that word related to?  
-> **Student**: Intención.  
-> **Teacher**: And the verb form ends in -o like "quiero"...  
-> **Student**: Ah, intento!  
-> **Teacher**: There you go. The skill is in digging it up, not in having it memorized.
+> **Student**: I've already forgotten how to ask a question.  
+> **Teacher**: It's not about remembering; it's about the "helper." What's the helper we use to start a question?  
+> **Student**: Is it "Do"?  
+> **Teacher**: Exactly. So if you want to ask about my job...  
+> **Student**: Do you work?  
+> **Teacher**: There it is. The "helper" did the work for you.
 
-**What this demonstrates**: Never just give the answer. Teach the retrieval process.
+**What this demonstrates**: Teach the retrieval process and the "logic" of the language.
 
 ---
 
 ## Example 6: Process Correction (Not Just Answer Correction)
 
-> **Teacher**: They come together. Say that.  
-> **Student**: Venir is irregular, right?  
-> **Teacher**: Try and build it, see what happens.  
-> **Student**: It's not "vieno"... no, it's vengo.  
-> **Teacher**: But you're going for the "they" version. Don't go from venir → I → they. Go from venir → they directly.  
-> **Student**: So, is it vienen?  
-> **Teacher**: Of course! You see?  
-> **Student**: Yeah. The "I" one though! My mind is trying to remember.  
-> **Teacher**: Vengo. But it's not important right now. You need to be comfortable with uncertainty. Focus on what's in front of you.
+> **Teacher**: Ask me if I went to the store.  
+> **Student**: Did you went...? No, that's two pasts.  
+> **Teacher**: Good catch! Why is it two pasts?  
+> **Student**: "Did" is already past.  
+> **Teacher**: Exactly. If the helper is doing the "past" work, what does the main verb do?  
+> **Student**: It stays simple? "Did you go?"  
+> **Teacher**: Perfect logic.
 
-**What this demonstrates**: Correct the *process*, not just the answer. Keep focus narrow. Teach comfort with uncertainty.
+**What this demonstrates**: Correct the *thinking process*. Explain the "why" so they can self-correct next time.
 
 ---
 
 ## Example 7: Preposition Difference as Cultural Window
 
-> **Teacher**: In Spanish you don't dream "about" someone. You dream "with" them. Maybe when people first talked about dreams, they felt the other person was actually participating. "Sueño contigo."  
-> **Student**: Sueño contigo.  
-> **Teacher**: Beautiful, isn't it? The preposition changes how you perceive the experience.
+> **Teacher**: In English, you are "on" the weekend, or "at" the weekend. It's like the weekend is a place you are standing on.  
+> **Student**: On the weekend.  
+> **Teacher**: Does that feel different from how you say it in your language?  
+> **Student**: Yeah, we say "in" the weekend.  
+> **Teacher**: Interesting! English sees it as a platform or a specific point in time.
 
-**What this demonstrates**: Use language differences as windows into culture. Makes grammar memorable through meaning.
+**What this demonstrates**: Use preposition differences to highlight how different languages "see" the world.
 
 ---
 
 ## Example 8: Vocabulary Through Experimentation
 
-> **Teacher**: How do you think you'd say "verb" in Spanish? We know "verbal" is "verbal"...  
-> **Student**: Verbo?  
-> **Teacher**: Yeah! With vocabulary, we can happily guess and try. If you'd said "verba," someone would look at you funny and say "ah, verbo" — and now you've learned. That's the fastest way.
+> **Teacher**: How do you think you'd say "comfortable" if you want to say the opposite? We use "un-."  
+> **Student**: Uncomfortable?  
+> **Teacher**: Yes! We can play with these prefixes. What about "happy"?  
+> **Student**: Unhappy.  
+> **Teacher**: You're guessing correctly because you're following the pattern.
 
-**What this demonstrates**: Encourage guessing. Distinguish between structure (be careful) and vocabulary (experiment freely).
+**What this demonstrates**: Encourage guessing through prefix/suffix patterns.
 
 ---
 
 ## Example 9: Future Tense Through Connection
 
-> **Teacher**: The future tense uses the same sounds as "haber." What's "I have" from haber?  
-> **Student**: He.  
-> **Teacher**: Just stick that sound on the end of the verb. "I will dance":  
-> **Student**: Bailaré?  
-> **Teacher**: The accent pushes into the future — literally. We push the stress forward. Isn't that interesting?
+> **Teacher**: We use "will" for a decision made *now*. Like if the phone rings, you say "I will answer it." It's an instant choice.  
+> **Student**: I will answer it.  
+> **Teacher**: But if you planned it yesterday, you say "I am going to." It's like you're already on the path toward it.  
+> **Student**: I am going to the store.  
+> **Teacher**: Exactly. One is a spark, the other is a plan.
 
-**What this demonstrates**: Connect new grammar to what's already known (haber). Add linguistic insight to make it memorable.
+**What this demonstrates**: Connect grammar to the "feeling" or "intent" of the speaker.
 
 ---
 
 ## Example 10: The Comfortable Guess
 
-> **Teacher**: How would you say "I can't stay tonight"?  
+> **Teacher**: How would you say "I should have told you"?  
 > **Student**: *(long pause)*  
-> **Teacher**: Don't panic. What's the first bit? "I can't."  
-> **Student**: No puedo.  
-> **Teacher**: "To stay" — remember it's "to remain myself."  
-> **Student**: Quedarme.  
-> **Teacher**: "Tonight"?  
-> **Student**: Esta noche.  
-> **Teacher**: Now connect them.  
-> **Student**: No puedo quedarme esta noche.  
-> **Teacher**: See? You knew more than you thought.
+> **Teacher**: Don't worry. First bit: "I should."  
+> **Student**: I should.  
+> **Teacher**: Now add "have."  
+> **Student**: I should have.  
+> **Teacher**: Now the "done" version of "tell."  
+> **Student**: Told?  
+> **Teacher**: And finally, "you."  
+> **Student**: I should have told you.  
+> **Teacher**: See? Piece by piece, it's inevitable.
 
-**What this demonstrates**: When the student freezes, decompose. Build confidence through construction.
+**What this demonstrates**: Decompose complex structures to build confidence and accuracy.

@@ -1,42 +1,40 @@
-# Relative Clauses
+# Topic: Relative Clauses
 
-## What This Is
-Connecting sentences with "that," "who," "where," "which" — and when they require subjunctive.
+## Objective
+Teach the student to connect ideas smoothly using who, which, that, and where.
 
-## Prerequisites
-- subjunctive-present
+## Teaching Strategy
 
-## Teaching Approach
+### 1. One Sentence, More Information
+- Relative clauses let us describe a noun without starting a new sentence.
+- "The woman who called me is my boss."
+- "The book that you gave me is excellent."
+- Ask: "How can we attach the extra information directly to the noun?"
 
-### Core Relative Pronouns
-- **Que** = that / which / who (most common — covers almost everything)
-- **Quien** = who (used after prepositions: "con quien," "para quien")
-- **Donde** = where ("la ciudad donde vivo")
-- **Lo que** = what / that which ("lo que quiero" = what I want)
-- **El/La que** = the one that ("el que habla" = the one who speaks)
-- **Cuyo/a** = whose (formal/literary: "el hombre cuyo hijo...")
+### 2. People, Things, and Places
+- "Who" for people.
+- "Which" for things.
+- "That" often works for people or things in defining clauses.
+- "Where" for places.
+- Ask: "If the noun is a person, which word sounds natural here?"
 
-### The Indicative vs. Subjunctive Distinction
-This is the subtle part:
+### 3. Keep the Clause Close to the Noun
+- The relative clause should sit right after the thing it describes.
+- "The man who lives next door" is clear.
+- Show how English likes compact information instead of repeating nouns.
 
-**Indicative** = the thing EXISTS, you know it's real
-- "Busco al hombre que **habla** inglés" (I'm looking for the man who speaks English — I know which man)
-
-**Subjunctive** = the thing MAY NOT EXIST, you're describing a hypothetical
-- "Busco a alguien que **hable** inglés" (I'm looking for someone who speaks English — anyone, I don't have a specific person)
-
-### More Contrasts
-- "Tengo un amigo que **sabe** cocinar" (I have a friend who knows how to cook — real, existing friend)
-- "Necesito un amigo que **sepa** cocinar" (I need a friend who can cook — hypothetical, don't have one yet)
-
-### Key Teaching Point
-"Ask yourself: am I talking about something REAL and SPECIFIC, or something I'm LOOKING FOR or IMAGINING? Real = indicative. Hypothetical = subjunctive."
+## Block-Building Example
+- "The woman"
+- "who works here"
+- "is friendly"
+- Combine: "The woman who works here is friendly."
 
 ## Common Pitfalls
-- Overusing "cual" (common in textbooks, less common in speech — "que" does most work)
-- Missing the indicative/subjunctive distinction in relative clauses
-- Using "quien" for things (only for people — use "que" for things)
+- Using "which" for people.
+- Putting the relative clause too far from the noun it describes.
+- Repeating the noun unnecessarily: "The woman who she works here..."
+- Guide the student to discover the link: "Which noun are we describing?"
 
 ## Connection to Other Concepts
-- Subjunctive usage here mirrors → subjunctive-triggers (same underlying real vs unreal logic)
-- Lo que connects to → stylistic-nuance (lo + adjective constructions)
+- Opens the door to cleft-sentences and more advanced sentence control.
+- Improves fluency by reducing short, repetitive sentences.

@@ -1,54 +1,38 @@
-# Advanced Connectors
+# Topic: Advanced Connectors
 
-## What This Is
-Moving beyond "pero" and "porque" — sophisticated linking words that make speech and writing flow naturally.
+## Objective
+Help the student connect ideas with more precise, formal, and nuanced linking words.
 
-## Prerequisites
-- subjunctive-triggers
+## Teaching Strategy
 
-## Teaching Approach
+### 1. Addition and Contrast
+- Move beyond "and" and "but."
+- "Furthermore," "Moreover," and "In addition" add ideas.
+- "However," "Whereas," and "Nevertheless" create contrast.
+- Ask: "If I want to disagree politely after making a point, what could I use instead of just 'but'?"
 
-### Contrast Connectors
-- **Sin embargo** = however / nevertheless (most common formal alternative to "pero")
-- **No obstante** = notwithstanding / nevertheless (more formal)
-- **A pesar de (que)** = despite / in spite of
-  - Without "que": + noun/infinitive → "A pesar de la lluvia" (despite the rain)
-  - With "que": + clause → "A pesar de que llueve" (despite the fact that it's raining)
-- **Aunque** = although / even though / even if
-  - + indicative = fact: "Aunque llueve, voy" (although it's raining — it IS raining)
-  - + subjunctive = hypothetical: "Aunque llueva, voy" (even if it rains — might or might not)
+### 2. Cause and Result
+- "Therefore," "As a result," and "Consequently" show outcome.
+- Point out the difference in feel: "So" is natural and spoken; "therefore" is more formal.
+- Ask: "If one thing causes another, how do we show that connection more precisely?"
 
-### Cause Connectors
-- **Ya que** = since / given that (more elegant than "porque")
-- **Dado que** = given that (formal)
-- **Puesto que** = since (formal, literary)
-- **Como** = since / as (ONLY at start of sentence: "Como no tenías tiempo, fui solo")
+### 3. Concession and Framing
+- "Although," "Even though," "Despite," and "Notwithstanding" show tension between two ideas.
+- Build the meaning first, then choose the connector.
+- Ask: "If something is true, but the opposite result still happened, what kind of connector do we need?"
 
-### Condition Connectors
-- **Siempre y cuando** = as long as / provided that (+ subjunctive)
-- **En caso de que** = in case (+ subjunctive)
-- **A no ser que** = unless (+ subjunctive)
-- **Con tal de que** = as long as / provided (+ subjunctive)
-- **A condición de que** = on the condition that (+ subjunctive)
-
-### Result/Consequence
-- **Por lo tanto** = therefore
-- **Así que** = so (conversational — most common)
-- **De modo que** / **De manera que** = so that / in such a way that
-- **Por eso** = that's why / because of that (very common)
-- **De ahí que** = hence (+ subjunctive)
-
-### Key Teaching Point
-"You don't need all of these. Pick 2-3 from each category that feel natural and use them. 'Sin embargo,' 'ya que,' 'siempre y cuando,' and 'así que' will cover 80% of your needs."
-
-### Subjunctive Rule of Thumb
-"If the connector introduces something UNCERTAIN or NOT YET REAL (conditions, hypotheticals), it takes subjunctive. If it introduces a FACT (cause, contrast with reality), it takes indicative."
+## Block-Building Example
+- "The plan was risky."
+- "It worked."
+- Add contrast: "Although" + "the plan was risky" + "," + "it worked."
+- Add formal result: "The plan was risky;" + "nevertheless," + "it worked."
 
 ## Common Pitfalls
-- Using "como" for "since" in the middle of a sentence (only works sentence-initially)
-- Forgetting subjunctive after condition connectors
-- Overusing "pero" when "sin embargo" or "aunque" would be more natural
+- Using very formal connectors in casual speech all the time.
+- Mixing structures: "despite" needs a noun or "-ing" form, while "although" takes a full clause.
+- Repeating the same connector in every sentence.
+- Guide the student to discover tone: "Would you say 'furthermore' to a close friend, or does that sound more like an essay?"
 
 ## Connection to Other Concepts
-- Many of these trigger → subjunctive (siempre y cuando, a no ser que, etc.)
-- Elevated style connects to → register-formality
+- Pairs naturally with stylistic-flexibility.
+- Useful when moving from B2 speech into C1 writing and argumentation.

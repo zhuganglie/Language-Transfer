@@ -1,25 +1,26 @@
 # Learner Memory
 
-<!-- This file is maintained by the tutor. Updated during and after each session. -->
-<!-- Keep this under 80 lines. Consolidate older entries as needed. -->
-
 ## Level
-Not yet assessed.
+B1/B2 (Advanced assessment in progress).
 
 ## Concepts: Solid
-(none yet)
+- Basic self-introduction.
+- Present simple/infinitive.
+- Past simple.
+- Present perfect continuous.
 
 ## Concepts: Shaky
-(none yet)
+- Third Conditional (Past hypotheticals - resolved construction but needs practice).
 
 ## Error Fingerprint
-(none yet — errors promoted here after 3+ occurrences)
+(none yet)
 
 ## What Works / Student Preferences
-(to be discovered — includes both observed patterns and explicit student feedback)
+- Prefers being asked questions in Chinese.
+- Likes block-by-block construction for complex tenses.
 
 ## Interests
-(to be discovered — will be used for example sentences)
+(to be discovered)
 
 ## Last Session
-No sessions yet.
+2026-02-28: Initial assessment. Covered Present Perfect Continuous and introduced Third Conditional logic.

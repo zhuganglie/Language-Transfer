@@ -1,117 +1,66 @@
-# Common Error Patterns by Level
+# Error Patterns (English)
 
-Recurring mistakes English speakers make when learning Spanish, organized by CEFR level. Each entry includes the error, why it happens, and how to address it using Language Transfer teaching methods.
-
----
-
-## A1 — Beginner Errors
-
-**English pronunciation leaking in**
-- Error: Pronouncing "s" as "z" (e.g., "visible" → "vi-zi-ble")
-- Why: English s between vowels often becomes z
-- Address: "Make sure that s stays crisp. S, not z. Visible."
-
-**Vowel inconsistency**
-- Error: Pronouncing Spanish vowels like English (e.g., "generación" → "genaración")
-- Why: English vowels shift depending on stress; Spanish vowels don't
-- Address: "Take it syllable by syllable. Each vowel is pronounced exactly as written."
-
-**Aspirating the silent h**
-- Error: "Hospital" with a slight h sound
-- Why: English h is always pronounced
-- Address: "Imagine the word starts with 'o'. No h exists. Ospital in your mind."
+Typical mistakes for English learners organized by CEFR level. The tutor uses this to identify "Shaky" concepts and "Error Fingerprints" in MEMORY.md.
 
 ---
 
-## A2 — Elementary Errors
+## A1/A2 — Beginner
 
-**Confusing verb types (-ar/-er/-ir)**
-- Error: Applying -ar endings to -er verbs or vice versa
-- Why: Not checking verb type before conjugating
-- Address: "Before you change any verb, quick check — what type is it? -ar, -er, or -ir?"
+- **The Third Person Singular "-s"**
+  - "He go to the store" instead of "He goes."
+  - "She have a dog" instead of "She has."
+  - *Correction Strategy*: Remind them that English is very simple for verbs, so it needs that one special marker for "he, she, it."
 
-**Object pronoun placement**
-- Error: "Quiero lo cancelar" instead of "quiero cancelarlo" or "lo quiero cancelar"
-- Why: English word order (want it cancel)
-- Address: "Pronouns either attach to the infinitive or go before the conjugated verb. Pick one."
+- **Subject Omission**
+  - "Is raining" instead of "It is raining."
+  - "Like coffee" instead of "I like coffee."
+  - *Correction Strategy*: Ask "Who is doing this?" or "What is doing this?" Emphasize the mandatory subject.
 
-**Over-translating prepositions**
-- Error: "Sueño sobre ella" (dream about her) instead of "sueño con ella" (dream with her)
-- Why: Direct translation of English prepositions
-- Address: "In Spanish you don't dream 'about' someone. You dream 'with' them. Sueño con ella."
+- **Question Formation without "Do"**
+  - "You like coffee?" (declarative as question) instead of "Do you like coffee?"
+  - "Want you a tea?" instead of "Do you want a tea?"
+  - *Correction Strategy*: Ask for the "helper" verb to start the question.
 
----
-
-## B1 — Intermediate Errors
-
-**Preterite/Imperfect confusion**
-- Error: Using preterite for background descriptions ("Fue un día bonito cuando llegué")
-- Why: English uses simple past for both functions
-- Address: "Think: is this action the backdrop or the event? The backdrop uses imperfect. 'Era un día bonito cuando llegué.'"
-
-**Ser/Estar mix-ups with adjectives**
-- Error: "Es cansado" (he is a tiring person) instead of "Está cansado" (he is tired)
-- Why: English has one "to be"
-- Address: "Ask yourself: is this about what something IS (ser) or how something FEELS right now (estar)?"
-
-**Forgetting stem changes**
-- Error: "Yo dormo" instead of "Yo duermo"
-- Why: Applying regular rules to stem-changing verbs
-- Address: "Some verbs split their vowel when you stress it. Dormir → duermo. Soñar → sueño."
+- **"Have" for Age**
+  - "I have 25 years" instead of "I am 25 years old."
+  - *Correction Strategy*: Connect it to identity — "You don't *own* your age; you *are* that age."
 
 ---
 
-## B2 — Upper Intermediate Errors
+## B1/B2 — Intermediate
 
-**Avoiding subjunctive**
-- Error: "Quiero que vienes" instead of "Quiero que vengas"
-- Why: Subjunctive doesn't exist in modern English; students default to indicative
-- Address: "After 'quiero que,' the action isn't real yet — you WANT it to happen. That 'unrealness' is exactly what subjunctive expresses."
+- **Present Perfect vs Past Simple**
+  - "I have seen him yesterday" instead of "I saw him yesterday."
+  - "I saw him three times in my life" instead of "I have seen him..."
+  - *Correction Strategy*: Ask "When exactly did this happen?" If the time is fixed, use past simple. If the time is open, use present perfect.
 
-**Conditional in si-clauses**
-- Error: "Si tendría..." instead of "Si tuviera..."
-- Why: English uses "would" in both halves; Spanish never uses conditional after "si"
-- Address: "In Spanish, 'si' NEVER gets conditional. The formula is: si + past subjunctive... conditional. Si tuviera... haría."
+- **"For" vs "Since"**
+  - "I have been here since three hours" instead of "for three hours."
+  - *Correction Strategy*: "Since" is a point (a dot on a calendar), "For" is a duration (a line).
 
-**Overusing "muy"**
-- Error: "Muy muy bueno" instead of richer intensifiers
-- Why: "Very" is the go-to English intensifier
-- Address: "Try 'bastante,' 'realmente,' 'increíblemente,' 'sumamente' — they give your Spanish more texture."
+- **"Say" vs "Tell"**
+  - "He told that it's true" instead of "He said that..."
+  - "She said me a secret" instead of "She told me..."
+  - *Correction Strategy*: "Tell" needs a person (Tell *me*). "Say" is the direct speech or the idea (Say *that*).
 
----
-
-## C1 — Advanced Errors
-
-**Register mismatch**
-- Error: Using "tú" with someone who expects "usted" (or vice versa in voseo regions)
-- Why: Register intuition comes from immersion, not study
-- Address: "When in doubt, start with usted. The other person will usually signal 'tutéame' if they prefer tú."
-
-**False friend traps**
-- Error: "Estoy embarazada" meaning "I'm embarrassed" (it means "I'm pregnant")
-- Why: Direct cognate assumption
-- Address: "Not every cognate translates directly. 'Embarrassed' is 'avergonzado/a.' 'Embarazada' is pregnant. Classic trap."
-
-**Subjunctive in relative clauses**
-- Error: "Busco a alguien que sabe" instead of "Busco a alguien que sepa"
-- Why: The indicative/subjunctive distinction in relative clauses is subtle
-- Address: "'Alguien que sabe' = I have a specific person in mind. 'Alguien que sepa' = I'm looking for ANY person with this quality. Which is it?"
+- **Phrasal Verb Particle Confusion**
+  - "Give out" instead of "Give up."
+  - "Take on" instead of "Take off."
+  - *Correction Strategy*: Focus on the logic of the particle. "Up" often means completion or intensity.
 
 ---
 
-## C2 — Near-Native Polish
+## C1/C2 — Advanced
 
-**Unnatural word order**
-- Error: Always using SVO order instead of fronting for emphasis
-- Why: English has fixed word order; Spanish is flexible
-- Address: "Spanish lets you move things around for emphasis. 'A mí me parece que...' hits differently than 'Me parece que...'"
+- **Gerund vs Infinitive**
+  - "I stopped to smoke" (to have a break) vs "I stopped smoking" (quit).
+  - *Correction Strategy*: Dive into the nuanced difference in meaning.
 
-**Missing diminutive/augmentative nuance**
-- Error: Not using -ito/-ita, -ón/-ota for tone
-- Why: English doesn't have productive diminutive suffixes
-- Address: "There's a whole emotional layer in 'un momentito' vs 'un momento.' The diminutive softens, warms, pleads."
+- **Register Mismatch**
+  - Using "Furthermore" in a casual conversation with a friend.
+  - Using "Gonna" in a formal business report.
+  - *Correction Strategy*: Ask about the context and the relationship with the listener.
 
-**Overly literal idioms**
-- Error: Translating English idioms instead of using Spanish ones
-- Why: Idioms are the last frontier
-- Address: "Instead of 'llover gatos y perros,' try 'llover a cántaros.' Every language has its own images."
+- **Article Nuance (a/the/zero)**
+  - "The nature is beautiful" instead of "Nature is beautiful."
+  - *Correction Strategy*: Discuss generalized vs specific concepts.

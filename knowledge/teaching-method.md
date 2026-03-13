@@ -1,6 +1,6 @@
-# Teaching Method: The Language Transfer Approach
+# Teaching Method: The Language Transfer Approach (English)
 
-This document expands on the 6 teaching principles in AGENT.md with concrete examples and techniques from the Language Transfer transcript.
+This document expands on the 6 teaching principles in AGENT.md with concrete examples and techniques translated to an English-learning context.
 
 ---
 
@@ -10,18 +10,18 @@ This document expands on the 6 teaching principles in AGENT.md with concrete exa
 
 **Technique — The Contrast Pair**:
 Present two forms side by side and ask what changed:
-- "How do you say 'normal'? Now 'metal'? What's different between the English and Spanish versions?"
-- "You said 'hablo' for 'I speak.' And 'habló' for 'he spoke.' What changed?"
+- "How do you say 'creation'? Now 'completion'? What's different about the ending compared to the verb 'create' or 'complete'?"
+- "You said 'I speak' for a habit. But 'I am speaking' for now. What changed?"
 
 **Technique — The Derivation Chain**:
 Show how one form leads to another:
-- "If 'preparación' is preparation... and you take off '-tion' and add '-r'... what verb do you get?"
-- Student discovers the -ación → -ar pattern instead of being told it.
+- "If 'decision' is the noun... and you take off the ending and add '-e'... what verb do you get?"
+- Student discovers the -sion → -de pattern (decide) instead of being told it.
 
 **Technique — The Guided Guess**:
 Encourage prediction based on known patterns:
-- "You know 'verbal' is 'verbal'. So how do you think you'd say 'verb'?"
-- Accept wrong guesses warmly: "Good instinct. It's actually 'verbo' — you were close."
+- "You know 'comfortable' is a positive word. If we add 'un-', how does the meaning change?"
+- Accept wrong guesses warmly: "Good instinct. It's actually 'discomfort' — you were close."
 
 ---
 
@@ -31,16 +31,15 @@ Encourage prediction based on known patterns:
 
 **Technique — The Decomposition**:
 Break the target sentence into 3-5 chunks:
-- Target: "I want to know why you have to stay here"
-- "OK, first: I want — quiero. Good."
-- "Now: to know — saber. Put them together."
-- "Now forget that. Just: why — por qué."
-- "Now: you have to stay here — tienes que quedarte aquí."
-- "Now connect them all."
+- Target: "I should have told you earlier."
+- "OK, first: I should. Good."
+- "Now: I should have. Put them together."
+- "Now: the 'done' version of tell — told. Connect it."
+- "Now: I should have told you. And finally, earlier."
 
 **Technique — The Build-Up**:
 Start with the simplest version and add layers:
-- "How do you say 'I cook'? → 'I have cooked'? → 'I have cooked at 6'? → 'I have cooked at 6 for her'?"
+- "I work" → "I have worked" → "I have been working" → "I have been working for ten years."
 
 ---
 
@@ -49,15 +48,15 @@ Start with the simplest version and add layers:
 **The rule**: Errors reveal thinking patterns. Use them to teach, not to correct.
 
 **Technique — The Redirect Question**:
-- Student says "culturial" → "Think about how it's written." (Student self-corrects to "cultural")
-- Student uses wrong tense → "What tense are we in right now?" or "Is this a background or a foreground action?"
+- Student says "He go" → "Think about that special 's' for one person."
+- Student says "I am here since three hours" → "Is three hours a specific point on the calendar, or a duration of time?"
 
 **Technique — The Process Check**:
-- "Good, but before you change any verb, do a quick check — what type of verb is it? -ar, -er, or -ir?"
+- "Before you start the question, what is our 'helper' verb?"
 - Teaches metacognition, not just correct answers.
 
 **Technique — The Gentle Redirect**:
-- "It doesn't split here, but good for trying." (When student applies stem change where it doesn't apply)
+- "That's a good guess, but in English, we use 'do' for tasks and 'make' for creating. Which one is it here?"
 - Validates the attempt, corrects the result.
 
 ---
@@ -67,16 +66,15 @@ Start with the simplest version and add layers:
 **The rule**: Every word is connected to other words. Show the connections.
 
 **Technique — Etymology as Memory**:
-- "Confirmar — that's 'con' (with) + 'firma' (signature). When you confirm, you do it 'with signature.'"
-- "Todavía means 'still' — it's 'toda' (all) + 'vía' (way). 'All the way.' Still going."
+- "Incredible — that's 'in' (not) + 'cred' (believe). Like a credit card, which proves you are 'believable' to the bank."
+- "Breakfast — you are literally 'breaking' your 'fast' from the night before."
 
-**Technique — Cross-Language Hooks**:
-- "Ocho is eight — think octagon, eight sides. Or October, which was the eighth month."
-- "Nueve is nine — think November, the ninth month."
+**Technique — Cross-Language Hooks (if applicable)**:
+- "If you know 'libertad' in Spanish, think of 'liberty' in English. They come from the same root."
 
 **Technique — Semantic Networks**:
-- "'Soñar' means to dream. But notice: 'sueño' can mean 'I dream' OR 'dream' (noun) OR 'sleepiness.' Three meanings, one word."
-- "In Spanish you don't dream 'about' someone — you dream 'with' them. Sueño contigo. Isn't that beautiful?"
+- "'Fast' can mean moving quickly, but it can also mean not eating. Why? Because you are 'fastened' or 'stuck' to your goal."
+- "Notice how 'set' has over 400 meanings. We don't memorize them; we look at the context."
 
 ---
 
@@ -98,8 +96,8 @@ Start with the simplest version and add layers:
 
 **Response to "I forgot"**:
 Never say "it's [answer]." Instead:
-- "It's not about remembering — it's about knowing how to find it. What was that word related to?"
-- "You'll forget many times and that's fine. The skill is in digging it up. What does it sound like?"
+- "It's not about remembering — it's about the logic. What's the helper we need for questions?"
+- "You'll forget many times and that's fine. The skill is in digging it up. What does it start with?"
 
 ---
 
@@ -108,13 +106,13 @@ Never say "it's [answer]." Instead:
 **The rule**: Real communication, not drills.
 
 **Technique — Contextual Prompts**:
-- "Tell me about your morning — but try to use reflexive verbs."
-- "Describe the last trip you took — use the preterite for what happened and the imperfect for descriptions."
+- "Tell me about your typical day — try to use the present simple for habits."
+- "Describe something you did last year that you had never done before — use the past perfect."
 
 **Technique — Opinion Elicitation**:
-- "¿Qué opinas sobre...?" then correct naturally in the flow of conversation.
+- "What do you think about...?" then correct naturally in the flow of conversation.
 - The student doesn't feel "tested" — they feel heard.
 
 **Technique — Comfortable Uncertainty**:
-- "You need to be comfortable with a level of uncertainty to learn a language. If you want the whole panorama before you start speaking, you will never start speaking."
+- "You need to be comfortable with not knowing every word. If you wait until you are perfect, you will never speak."
 - Encourage speaking even with gaps. Fill gaps together.

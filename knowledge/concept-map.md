@@ -1,98 +1,98 @@
-# Concept Map
+# Concept Map (English)
 
-A lightweight index of Spanish concepts organized by CEFR level. Each entry lists prerequisites and points to a topic file for detailed teaching guidance. The tutor reads this to decide what to teach next, cross-referencing with the learner's MEMORY.md.
+A lightweight index of English concepts organized by CEFR level. Each entry lists prerequisites and points to a topic file for detailed teaching guidance. The tutor reads this to decide what to teach next, cross-referencing with the learner's MEMORY.md.
 
 ---
 
 ## A1 — Absolute Beginner
 
 - **cognate-patterns**: prereqs=[] → `topics/cognate-patterns.md`
-  Cognate conversion rules: -al, -tion→-ción, -ant/-ent→-ante/-ente, -ible/-able, -ment→-mente
+  Leveraging student's native language (if Romance/Germanic) for instant vocabulary.
 
 - **pronunciation**: prereqs=[] → `topics/pronunciation.md`
-  Vowel consistency (a/e/i/o/u), silent h, ñ, rr vs r, b/v, accent stress rules
+  Vowel sounds (short/long), silent letters (e, k, g), th-sounds, word stress patterns.
 
-- **es-and-no**: prereqs=[] → `topics/es-and-no.md`
-  "Es" (is/he is/she is), "no es" (is not), basic sentence formation
+- **be-do-have**: prereqs=[] → `topics/be-do-have.md`
+  The "Big Three" auxiliary verbs. "I am," "I do," "I have." Basic sentence structure (SVO).
 
-- **quiero-basics**: prereqs=[es-and-no] → `topics/quiero-basics.md`
-  "Quiero" (I want), quiero + infinitive, "no quiero", verb derivation from -ación nouns
+- **present-simple**: prereqs=[be-do-have] → `topics/present-simple.md`
+  General truths and habits. Third person -s. Question formation with "do/does."
 
-- **present-regular**: prereqs=[quiero-basics] → `topics/present-regular.md`
-  -ar/-er/-ir verb conjugation in present tense, yo/tú/él/nosotros/ellos forms
+- **pronouns-basics**: prereqs=[] → `topics/pronouns-basics.md`
+  Subject (I, you) vs Object (me, you). Possessive adjectives (my, your).
 
 ## A2 — Elementary
 
-- **present-irregular**: prereqs=[present-regular] → `topics/present-irregular.md`
-  Stem-changing verbs (o→ue, e→ie, e→i), common irregulars (ir, ser, estar, tener, hacer)
+- **past-simple**: prereqs=[present-simple] → `topics/past-simple.md`
+  Regular -ed verbs. Common irregulars (go/went, see/saw). Negative and question form with "did."
 
-- **pronouns-object**: prereqs=[present-regular] → `topics/pronouns-object.md`
-  me/te/lo/la/nos/los/las, placement rules, combining with infinitives
+- **future-will-going-to**: prereqs=[present-simple] → `topics/future-will-going-to.md`
+  Spontaneous decisions (will) vs planned actions (going to). "I'm gonna."
 
-- **gustar-pattern**: prereqs=[pronouns-object] → `topics/gustar-pattern.md`
-  "Me gusta/n", inverted subject, other verbs like gustar (interesar, importar, encantar)
+- **present-continuous**: prereqs=[be-do-have] → `topics/present-continuous.md`
+  Actions happening now. "I am working." Contrast with present simple.
 
-- **prepositions**: prereqs=[present-regular] → `topics/prepositions.md`
-  a, de, en, con, para, por (basic), conmigo/contigo, verb + preposition differences from English
+- **modals-can-should**: prereqs=[be-do-have] → `topics/modals-can-should.md`
+  Ability (can) and advice (should). Sentence structure without "to."
 
-- **reflexives**: prereqs=[pronouns-object] → `topics/reflexives.md`
-  Reflexive verbs (quedarse, prepararse, irse), pronoun placement, daily routine verbs
+- **prepositions-place-time**: prereqs=[] → `topics/prepositions-place-time.md`
+  In, on, at. Basic patterns for locations and dates.
 
 ## B1 — Intermediate
 
-- **past-preterite**: prereqs=[present-regular] → `topics/past-preterite.md`
-  Point-in-time past: -ar verbs (-é/-ó/-amos/-aron), -er/-ir verbs (-í/-ió/-imos/-ieron)
+- **present-perfect-simple**: prereqs=[past-simple] → `topics/present-perfect-simple.md`
+  Unspecified time in the past. "I have seen." Comparison with past simple (the "ever/never" pattern).
 
-- **past-imperfect**: prereqs=[present-regular] → `topics/past-imperfect.md`
-  Background/habitual past: -ar (-aba), -er/-ir (-ía), only 3 irregulars (ir, ser, ver)
+- **present-perfect-continuous**: prereqs=[present-perfect-simple] → `topics/present-perfect-continuous.md`
+  Duration from past to now. "I have been waiting for two hours." Since vs for.
 
-- **preterite-vs-imperfect**: prereqs=[past-preterite, past-imperfect] → `topics/preterite-vs-imperfect.md`
-  Foreground vs background, interruption pattern, habitual vs one-time, narrative perspective
+- **past-continuous-narrative**: prereqs=[past-simple] → `topics/past-continuous-narrative.md`
+  Interrupted actions. "I was sleeping when the phone rang." Setting the scene.
 
-- **present-perfect**: prereqs=[past-preterite] → `topics/present-perfect.md`
-  Haber + past participle, "he hablado", when to use vs preterite, regional differences
+- **passive-voice-basics**: prereqs=[be-do-have] → `topics/passive-voice-basics.md`
+  "The window was broken." Focus on the object.
 
-- **ser-vs-estar**: prereqs=[present-irregular] → `topics/ser-vs-estar.md`
-  Identity vs state, adjectives that change meaning, "es aburrido" vs "está aburrido"
-
-- **por-vs-para**: prereqs=[prepositions] → `topics/por-vs-para.md`
-  Purpose vs cause, duration vs deadline, exchange, "por" in passive, common expressions
+- **phrasal-verbs-intro**: prereqs=[prepositions-place-time] → `topics/phrasal-verbs-intro.md`
+  The logic of particles (up, down, off, out). "Give up," "take off."
 
 ## B2 — Upper Intermediate
 
-- **future-conditional**: prereqs=[present-regular] → `topics/future-conditional.md`
-  Future tense (infinitive + haber endings), conditional (-ía), irregular stems, will vs would
+- **conditionals-zero-first-second**: prereqs=[future-will-going-to, past-simple] → `topics/conditionals-zero-first-second.md`
+  Real vs hypothetical situations. "If I were you..."
 
-- **subjunctive-present**: prereqs=[present-regular] → `topics/subjunctive-present.md`
-  Formation (swap vowels: -ar→-e, -er/-ir→-a), concept of "unrealized" actions
+- **third-conditional-regret**: prereqs=[conditionals-zero-first-second, past-perfect] → `topics/third-conditional-regret.md`
+  Past hypotheticals. "If I had known, I would have come."
 
-- **subjunctive-triggers**: prereqs=[subjunctive-present] → `topics/subjunctive-triggers.md`
-  Quiero que, espero que, es posible que, ojalá, para que, cuando (future), sin que, antes de que
+- **past-perfect**: prereqs=[past-simple] → `topics/past-perfect.md`
+  The "past of the past." "When I arrived, they had already left."
 
-- **compound-tenses**: prereqs=[present-perfect, past-imperfect] → `topics/compound-tenses.md`
-  Pluperfect (había + pp), future perfect (habré + pp), conditional perfect (habría + pp)
+- **relative-clauses**: prereqs=[] → `topics/relative-clauses.md`
+  Who, which, that, whom, whose. Defining vs non-defining.
 
-- **relative-clauses**: prereqs=[subjunctive-present] → `topics/relative-clauses.md`
-  Que, quien, donde, lo que, el/la que, cuyo; indicative vs subjunctive in relative clauses
+- **modals-deduction**: prereqs=[modals-can-should] → `topics/modals-deduction.md`
+  Must, might, can't have been. Expressing degrees of certainty.
 
 ## C1 — Advanced
 
-- **subjunctive-imperfect**: prereqs=[subjunctive-present, past-imperfect] → `topics/subjunctive-imperfect.md`
-  -ra and -se forms, si clauses ("si tuviera..."), wishes about the past, como si
+- **inversion-emphasis**: prereqs=[present-simple, past-simple] → `topics/inversion-emphasis.md`
+  "Never have I seen..." Sophisticated sentence structures for impact.
 
-- **conditional-subjunctive**: prereqs=[subjunctive-imperfect, future-conditional] → `topics/conditional-subjunctive.md`
-  "Si tuviera... haría", "Si hubiera tenido... habría hecho", hypothetical chains
+- **advanced-connectors**: prereqs=[] → `topics/advanced-connectors.md`
+  Furthermore, notwithstanding, whereas, albeit. Academic and formal register.
 
-- **advanced-connectors**: prereqs=[subjunctive-triggers] → `topics/advanced-connectors.md`
-  Sin embargo, no obstante, a pesar de que, dado que, siempre y cuando, en caso de que
+- **cleft-sentences**: prereqs=[relative-clauses] → `topics/cleft-sentences.md`
+  "It was her who told me." "What I need is a coffee." Focusing information.
 
-- **register-formality**: prereqs=[subjunctive-present] → `topics/register-formality.md`
-  Tú vs usted vs vos, formal writing, literary vs conversational, softening requests
+- **subjunctive-mood**: prereqs=[conditionals-zero-first-second] → `topics/subjunctive-mood.md`
+  "It is essential that he be present." Formal recommendations.
 
 ## C2 — Near-Native
 
-- **stylistic-nuance**: prereqs=[conditional-subjunctive, advanced-connectors] → `topics/stylistic-nuance.md`
-  Word order for emphasis, lo + adjective constructions, diminutives/augmentatives for tone
+- **idiomatic-nuance**: prereqs=[] → `topics/idiomatic-nuance.md`
+  Metaphors, cultural idioms, and the "unwritten rules" of polite English.
 
-- **regional-variation**: prereqs=[register-formality] → `topics/regional-variation.md`
-  Voseo, leísmo/laísmo, vocabulary differences (Spain vs Mexico vs Argentina vs Colombia)
+- **regional-variation**: prereqs=[] → `topics/regional-variation.md`
+  British vs American vs Australian nuances. Spelling, vocabulary, and slang.
+
+- **stylistic-flexibility**: prereqs=[inversion-emphasis, advanced-connectors] → `topics/stylistic-flexibility.md`
+  Mastering tone, irony, and sarcasm. Writing for different audiences.

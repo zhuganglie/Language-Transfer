@@ -1,68 +1,38 @@
-# Regional Variation
+# Topic: Regional Variation
 
-## What This Is
-How Spanish differs across regions — vocabulary, pronunciation, grammar, and cultural norms.
+## Objective
+Help the student notice how English changes across regions without treating one variety as the only correct model.
 
-## Prerequisites
-- register-formality
+## Teaching Strategy
 
-## Teaching Approach
+### 1. Vocabulary Differences
+- British and American English often choose different everyday words.
+- "Flat" vs "apartment," "lift" vs "elevator," "holiday" vs "vacation."
+- Ask: "If you hear both 'flat' and 'apartment,' are they different things or different varieties of English?"
 
-### The Big Picture
-"There is no single 'correct' Spanish. There are 20+ countries and 500+ million speakers. What matters is being understood and understanding others."
+### 2. Grammar and Usage Differences
+- Some grammar choices vary by region.
+- British English often says "at the weekend"; American English often says "on the weekend."
+- British English may use present perfect where American English often uses past simple: "I've just eaten" vs "I just ate."
+- Ask: "If two native speakers choose different structures, does that automatically mean one is wrong?"
 
-### Pronunciation Variation
-| Feature | Where | Example |
-|---------|-------|---------|
-| Seseo (z/ce/ci = /s/) | All of Latin America, southern Spain | "Cerveza" = /servesa/ |
-| Distinción (z/ce/ci = /θ/) | Most of Spain | "Cerveza" = /thervetha/ |
-| Yeísmo (ll = y) | Most of Spanish-speaking world | "Lluvia" = /yuvia/ |
-| Sheísmo (ll/y = /sh/) | Argentina, Uruguay | "Lluvia" = /shuvia/ |
-| Aspirated s | Caribbean, Andalusia | "Estás" = /ehtáh/ |
-| Dropped final consonants | Caribbean | "Verdad" = /verdá/ |
+### 3. Accent and Register
+- Pronunciation, rhythm, and slang vary widely even inside the same country.
+- The goal is comprehension first, imitation second.
+- Ask: "Do you need to sound British or American to speak good English, or do you need to be consistent and understandable?"
 
-### Grammar Variation
-- **Voseo** (vos instead of tú): Argentina, Uruguay, Central America, parts of Colombia
-  - Vos hablás, vos tenés, vos venís (stress on last syllable)
-- **Ustedes for everything** (no vosotros): All of Latin America
-- **Leísmo** (le instead of lo for masculine direct object): Central Spain
-  - "Le vi" instead of "Lo vi" (I saw him) — accepted in Spain, not in Latin America
-- **Past tense preference**: Spain loves present perfect for recent past ("Hoy he comido"); Latin America prefers preterite ("Hoy comí")
-
-### Vocabulary Differences
-Some words change meaning entirely across regions:
-
-| Concept | Spain | Mexico | Argentina | Colombia |
-|---------|-------|--------|-----------|----------|
-| Car | Coche | Carro | Auto | Carro |
-| Computer | Ordenador | Computadora | Computadora | Computador |
-| Bus | Autobús | Camión | Colectivo | Bus |
-| Cell phone | Móvil | Celular | Celular | Celular |
-| Cool/awesome | Mola | Padre/Chido | Copado | Bacano/Chévere |
-| Apartment | Piso | Departamento | Departamento | Apartamento |
-| To drive | Conducir | Manejar | Manejar | Manejar |
-| Money (slang) | Pasta | Lana | Guita | Plata |
-
-### False Friends Across Dialects
-- **Coger**: to take/grab (Spain) vs. vulgar term (Latin America — use "tomar" or "agarrar")
-- **Concha**: seashell (Spain) vs. vulgar term (Argentina — careful)
-- **Torta**: cake (Spain) vs. sandwich (Mexico) vs. slap (some regions)
-
-### Key Teaching Point
-"Don't pick a 'team.' Understand the differences so you can talk to anyone. Your own Spanish will naturally reflect whoever you practice with most — and that's perfect."
-
-### Practical Advice
-1. Pick ONE accent/region to focus on for production (whichever you most engage with)
-2. Expose yourself to ALL major variants for comprehension
-3. When in a specific country, adapt (use their vocabulary, mirror their register)
-4. When writing, standard neutral Spanish works everywhere
+## Block-Building Example
+- "I live in a" + "flat."
+- Swap the regional word: "I live in an" + "apartment."
+- "I will see you" + "at the weekend."
+- Swap the regional version: "I will see you" + "on the weekend."
 
 ## Common Pitfalls
-- Thinking one variety is "more correct" (it's not)
-- Using "coger" in Latin America without awareness
-- Mixing voseo conjugations with tuteo (pick one system)
-- Dismissing voseo/Caribbean Spanish as "incorrect"
+- Mixing varieties randomly in a way that sounds unstable.
+- Assuming textbook English is the only real English.
+- Treating accent as more important than clarity.
+- Guide the student toward consistency: "Which variety do you hear most often, and which one do you want to build around?"
 
 ## Connection to Other Concepts
-- Voseo is a practical extension of → register-formality
-- Pronunciation differences affect listening comprehension at all levels
+- Works well with idiomatic-nuance and stylistic-flexibility.
+- Important for advanced listening and identity-building in English.

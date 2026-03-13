@@ -1,49 +1,35 @@
-# Pronunciation
+# Topic: Pronunciation (Clarity Before Accent)
 
-## What This Is
-Spanish pronunciation rules — much simpler than English because Spanish is highly phonetic.
+## Objective
+Improve intelligibility by focusing on the English sounds and rhythm patterns that cause the most trouble for learners.
 
-## Prerequisites
-None.
+## Teaching Strategy
 
-## Teaching Approach
+### 1. Long and Short Vowels
+- English often changes meaning with a small vowel difference: "ship" vs "sheep," "full" vs "fool."
+- Do not start with the full IPA chart. Start with contrast pairs the student can hear and repeat.
+- Ask: "If I say 'ship' and 'sheep,' which one sounds longer to you?"
 
-Frame it positively: "Spanish is way more phonetic than English. Once you learn these rules, you can pronounce any word correctly just by reading it."
+### 2. Consonant Endings and Clusters
+- Many learners drop final sounds: "work" becomes "wor," "cold" becomes "col."
+- English meaning often depends on those final consonants.
+- Practice short pairs: "cap" / "cab," "rice" / "rise," "want" / "won't."
+- Ask: "Can you feel the difference at the end of 'cap' and 'cab'?"
 
-### Vowels — The Foundation
-Each vowel has exactly ONE sound, always:
-- a = /ah/ (like "father")
-- e = /eh/ (like "elephant")
-- i = /ee/ (like "ink")
-- o = /oh/ (like "open")
-- u = /oo/ (like "moon")
+### 3. Stress and Sentence Rhythm
+- English is stress-timed, so some words are strong and others become weaker.
+- Content words carry the meaning: nouns, main verbs, adjectives.
+- Function words often reduce: "I can do it" sounds different from "I CAN do it."
+- Ask: "Which word sounds strongest in 'I didn't say he stole the money'?"
 
-Practice: Have the student say cognate words and focus on pronouncing each vowel as written. "Natural" — not "natchural." "Generación" — every vowel is pure.
-
-### Consonant Notes
-- **h**: completely silent. "Hospital" starts with /o/. "Ahora" = /a-o-ra/. Exception: ch = /ch/ as in English.
-- **ñ**: like n + y. "Mañana" = /man-ya-na/. Only unique Spanish letter.
-- **rr vs r**: single r = softer than English (but still with tongue). Double rr = rolled/trilled. "Pero" (but) vs "perro" (dog). Don't stress if you can't roll — it will come with practice.
-- **b/v**: both can sound like a soft b. "Voy" might sound like /boy/. Regional variation.
-- **s**: always /s/, never /z/. "Visible" = /vi-si-ble/, NOT /vi-zi-ble/.
-- **qu**: always /k/. "Quiero" = /ki-e-ro/. The u is silent.
-- **j**: /kh/ — throat friction. "General" = /khe-ne-ral/.
-- **z/ce/ci**: /s/ in Latin America, /th/ in Spain. Student's choice.
-
-### Stress Rules
-- Words ending in vowel, n, or s: stress second-to-last syllable (ha-BLA-mos)
-- Words ending in other consonants: stress last syllable (ha-BLAR)
-- Written accent mark overrides: ha-BLÉ, pre-pa-ra-CIÓN
-
-### The Key Message
-"Pronounce the vowels as they're written, and you'll have a perfect accent. The rest is details."
+## Block-Building Example
+- "I" + "want" + "to" + "go."
+- Say it slowly first: "I want to go."
+- Then connect it naturally: "I wanna go."
+- Compare careful speech and natural speech without forcing a fake accent.
 
 ## Common Pitfalls
-- English schwa creeping in (unstressed vowels becoming "uh")
-- Aspirating the silent h
-- s → z between vowels (English habit)
-- Stressing wrong syllable (especially with cognates — NORmal vs norMAL)
-
-## Connection to Other Concepts
-- Reinforced constantly through cognate-patterns
-- Stress rules become critical for tense distinction (haBLO present vs haBLÓ past)
+- Trying to copy a native accent too early instead of aiming for clear sound contrasts.
+- Ignoring word stress and focusing only on individual letters.
+- Dropping final consonants, which can change meaning.
+- Guide the student to notice: "If the last sound disappears, does it still sound like the same word?"
