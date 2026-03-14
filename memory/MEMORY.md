@@ -1,16 +1,17 @@
 # Learner Memory
 
 ## Level
-B1/B2 (Advanced assessment in progress).
+B2
 
 ## Concepts: Solid
 - Basic self-introduction.
 - Present simple/infinitive.
 - Past simple.
 - Present perfect continuous.
+- Third Conditional (Past hypotheticals).
 
 ## Concepts: Shaky
-- Third Conditional (Past hypotheticals - resolved construction but needs practice).
+- (none yet)
 
 ## Error Fingerprint
 (none yet)
@@ -23,4 +24,4 @@ B1/B2 (Advanced assessment in progress).
 (to be discovered)
 
 ## Last Session
-2026-02-28: Initial assessment. Covered Present Perfect Continuous and introduced Third Conditional logic.
+2026-03-14: Mastered Third Conditional block building (positive, negative, "had had", and emotional regret expressions). Introduced phrasal verb usage within the conditional.
