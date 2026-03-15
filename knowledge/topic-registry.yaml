@@ -1,0 +1,360 @@
+version: 1
+topics:
+  - id: cognate-patterns
+    level: A1
+    path: knowledge/topics/cognate-patterns.md
+    prereqs: []
+    diagnostics:
+      - Can derive a likely verb from a familiar -tion noun.
+      - Notices word-family resemblance instead of translating each word separately.
+    mastery_signals:
+      - Guesses new cognates plausibly and adjusts when the pattern breaks.
+    next_topics:
+      - be-do-have
+      - present-simple
+
+  - id: pronunciation
+    level: A1
+    path: knowledge/topics/pronunciation.md
+    prereqs: []
+    diagnostics:
+      - Can hear a contrast between common long and short vowels.
+      - Can repeat a target word clearly enough to preserve meaning.
+    mastery_signals:
+      - Produces key contrast pairs more reliably and notices stress placement.
+    next_topics:
+      - present-simple
+      - present-continuous
+
+  - id: be-do-have
+    level: A1
+    path: knowledge/topics/be-do-have.md
+    prereqs: []
+    diagnostics:
+      - Can form simple identity, possession, and helper-verb sentences.
+      - Stops dropping the subject in basic statements.
+    mastery_signals:
+      - Chooses be, do, or have correctly in high-frequency sentence frames.
+    next_topics:
+      - present-simple
+      - present-continuous
+      - modals-can-should
+
+  - id: present-simple
+    level: A1
+    path: knowledge/topics/present-simple.md
+    prereqs:
+      - be-do-have
+    diagnostics:
+      - Can describe habits and general truths.
+      - Handles the third-person singular marker with prompting.
+    mastery_signals:
+      - Builds positive, negative, and question forms without losing the helper.
+    next_topics:
+      - past-simple
+      - future-will-going-to
+
+  - id: pronouns-basics
+    level: A1
+    path: knowledge/topics/pronouns-basics.md
+    prereqs: []
+    diagnostics:
+      - Can swap nouns for subject or object pronouns in short sentences.
+      - Understands that English usually states the subject explicitly.
+    mastery_signals:
+      - Uses subject, object, and possessive forms correctly in simple production.
+    next_topics:
+      - present-simple
+      - relative-clauses
+
+  - id: past-simple
+    level: A2
+    path: knowledge/topics/past-simple.md
+    prereqs:
+      - present-simple
+    diagnostics:
+      - Can describe a finished event yesterday or last week.
+      - Knows that did carries the past in questions and negatives.
+    mastery_signals:
+      - Uses regular and common irregular past forms with fewer double-past errors.
+    next_topics:
+      - present-perfect-simple
+      - past-continuous-narrative
+      - past-perfect
+
+  - id: future-will-going-to
+    level: A2
+    path: knowledge/topics/future-will-going-to.md
+    prereqs:
+      - present-simple
+    diagnostics:
+      - Can separate an instant decision from a prior plan.
+      - Can form will and going to without overexplaining the rule.
+    mastery_signals:
+      - Chooses the more natural future form in common spoken contexts.
+    next_topics:
+      - conditionals-zero-first-second
+
+  - id: present-continuous
+    level: A2
+    path: knowledge/topics/present-continuous.md
+    prereqs:
+      - be-do-have
+    diagnostics:
+      - Can describe what is happening now.
+      - Can contrast a temporary action with a routine when prompted.
+    mastery_signals:
+      - Builds be plus verb-ing accurately and uses it for live situations.
+    next_topics:
+      - past-continuous-narrative
+
+  - id: modals-can-should
+    level: A2
+    path: knowledge/topics/modals-can-should.md
+    prereqs:
+      - be-do-have
+    diagnostics:
+      - Can express ability and advice with a modal plus base verb.
+      - Avoids adding to after can or should.
+    mastery_signals:
+      - Uses can and should naturally in short conversational turns.
+    next_topics:
+      - modals-deduction
+
+  - id: prepositions-place-time
+    level: A2
+    path: knowledge/topics/prepositions-place-time.md
+    prereqs: []
+    diagnostics:
+      - Can choose in, on, or at for high-frequency time and place expressions.
+      - Can explain the picture behind a preposition choice.
+    mastery_signals:
+      - Uses common preposition patterns with less literal translation from Chinese.
+    next_topics:
+      - phrasal-verbs-intro
+
+  - id: present-perfect-simple
+    level: B1
+    path: knowledge/topics/present-perfect-simple.md
+    prereqs:
+      - past-simple
+    diagnostics:
+      - Can sort fixed past time from open life experience.
+      - Can build have plus past participle with common irregulars.
+    mastery_signals:
+      - Stops mixing yesterday-type markers with the present perfect.
+    next_topics:
+      - present-perfect-continuous
+      - phrasal-verbs-intro
+
+  - id: present-perfect-continuous
+    level: B1
+    path: knowledge/topics/present-perfect-continuous.md
+    prereqs:
+      - present-perfect-simple
+    diagnostics:
+      - Can describe duration from the past until now.
+      - Can distinguish since as a point from for as a duration.
+    mastery_signals:
+      - Produces have been plus verb-ing with fewer since/for errors.
+    next_topics:
+      - third-conditional-regret
+      - modals-deduction
+
+  - id: past-continuous-narrative
+    level: B1
+    path: knowledge/topics/past-continuous-narrative.md
+    prereqs:
+      - past-simple
+    diagnostics:
+      - Can describe a background action interrupted by another event.
+      - Can use was or were plus verb-ing in a short story.
+    mastery_signals:
+      - Uses past continuous to set the scene rather than replacing all past simple forms.
+    next_topics:
+      - past-perfect
+
+  - id: passive-voice-basics
+    level: B1
+    path: knowledge/topics/passive-voice-basics.md
+    prereqs:
+      - be-do-have
+    diagnostics:
+      - Can identify when the object deserves focus over the actor.
+      - Can build be plus past participle for simple present and past passives.
+    mastery_signals:
+      - Chooses passive voice deliberately in high-frequency contexts.
+    next_topics:
+      - advanced-connectors
+
+  - id: phrasal-verbs-intro
+    level: B1
+    path: knowledge/topics/phrasal-verbs-intro.md
+    prereqs:
+      - prepositions-place-time
+    diagnostics:
+      - Can infer a particle's contribution in common literal examples.
+      - Can place a pronoun correctly in separable phrasal verbs.
+    mastery_signals:
+      - Uses a small set of high-frequency phrasal verbs flexibly in conversation.
+    next_topics:
+      - stylistic-flexibility
+      - idiomatic-nuance
+
+  - id: conditionals-zero-first-second
+    level: B2
+    path: knowledge/topics/conditionals-zero-first-second.md
+    prereqs:
+      - future-will-going-to
+      - past-simple
+    diagnostics:
+      - Can distinguish rule-like conditionals from real future possibility and hypothesis.
+      - Can keep each clause in the right time frame.
+    mastery_signals:
+      - Produces zero, first, and second conditionals without blending their logic.
+    next_topics:
+      - third-conditional-regret
+      - subjunctive-mood
+
+  - id: third-conditional-regret
+    level: B2
+    path: knowledge/topics/third-conditional-regret.md
+    prereqs:
+      - conditionals-zero-first-second
+      - past-perfect
+    diagnostics:
+      - Can build had plus participle in the if clause and would have plus participle in the result clause.
+      - Can use the structure for regret, blame, or reflection.
+    mastery_signals:
+      - Avoids would have inside the if clause and self-corrects participle mistakes.
+    next_topics:
+      - modals-deduction
+      - stylistic-flexibility
+
+  - id: past-perfect
+    level: B2
+    path: knowledge/topics/past-perfect.md
+    prereqs:
+      - past-simple
+    diagnostics:
+      - Can identify which past action happened first.
+      - Can build had plus participle without treating had as possession.
+    mastery_signals:
+      - Uses past perfect to clarify sequence instead of overusing it everywhere.
+    next_topics:
+      - third-conditional-regret
+
+  - id: relative-clauses
+    level: B2
+    path: knowledge/topics/relative-clauses.md
+    prereqs: []
+    diagnostics:
+      - Can attach extra information to a noun with who, which, that, or where.
+      - Can hear when a second sentence can be folded into one.
+    mastery_signals:
+      - Produces smoother multi-part sentences with fewer broken links.
+    next_topics:
+      - cleft-sentences
+
+  - id: modals-deduction
+    level: B2
+    path: knowledge/topics/modals-deduction.md
+    prereqs:
+      - modals-can-should
+    diagnostics:
+      - Can express certainty, possibility, and impossibility about a situation.
+      - Can use must, might, may, could, and can't without flattening the nuance.
+    mastery_signals:
+      - Chooses deduction modals that match the intended confidence level.
+    next_topics:
+      - idiomatic-nuance
+
+  - id: inversion-emphasis
+    level: C1
+    path: knowledge/topics/inversion-emphasis.md
+    prereqs:
+      - present-simple
+      - past-simple
+    diagnostics:
+      - Can notice inversion after never, rarely, only then, or not until.
+      - Can manipulate helper and subject order without losing grammatical control.
+    mastery_signals:
+      - Uses inversion deliberately for emphasis rather than by accident.
+    next_topics:
+      - stylistic-flexibility
+
+  - id: advanced-connectors
+    level: C1
+    path: knowledge/topics/advanced-connectors.md
+    prereqs: []
+    diagnostics:
+      - Can choose a connector more precise than and or but.
+      - Can tell whether a connector sounds formal, neutral, or heavy.
+    mastery_signals:
+      - Links arguments smoothly and matches connector choice to register.
+    next_topics:
+      - stylistic-flexibility
+
+  - id: cleft-sentences
+    level: C1
+    path: knowledge/topics/cleft-sentences.md
+    prereqs:
+      - relative-clauses
+    diagnostics:
+      - Can reshape a plain sentence to emphasize the subject, object, or information focus.
+      - Understands when the cleft sounds purposeful instead of artificial.
+    mastery_signals:
+      - Uses cleft structures to shift emphasis in speech or writing.
+    next_topics:
+      - stylistic-flexibility
+
+  - id: subjunctive-mood
+    level: C1
+    path: knowledge/topics/subjunctive-mood.md
+    prereqs:
+      - conditionals-zero-first-second
+    diagnostics:
+      - Can recognize trigger phrases for formal recommendations or demands.
+      - Can keep the base verb after the trigger in formal contexts.
+    mastery_signals:
+      - Uses the subjunctive selectively and notices register differences.
+    next_topics:
+      - advanced-connectors
+
+  - id: idiomatic-nuance
+    level: C2
+    path: knowledge/topics/idiomatic-nuance.md
+    prereqs: []
+    diagnostics:
+      - Can infer metaphorical meaning from context instead of reading literally.
+      - Can explain why an idiom sounds natural in one context and odd in another.
+    mastery_signals:
+      - Uses a few idioms or fixed phrases with strong context control.
+    next_topics:
+      - regional-variation
+      - stylistic-flexibility
+
+  - id: regional-variation
+    level: C2
+    path: knowledge/topics/regional-variation.md
+    prereqs: []
+    diagnostics:
+      - Can identify whether a word choice sounds British, American, or general.
+      - Can avoid treating one variety as the only correct form.
+    mastery_signals:
+      - Adjusts vocabulary or spelling intentionally for the target variety.
+    next_topics:
+      - stylistic-flexibility
+
+  - id: stylistic-flexibility
+    level: C2
+    path: knowledge/topics/stylistic-flexibility.md
+    prereqs:
+      - inversion-emphasis
+      - advanced-connectors
+    diagnostics:
+      - Can restate the same idea for casual, neutral, and formal audiences.
+      - Can hear when a collocation or phrasal verb mismatches the setting.
+    mastery_signals:
+      - Shifts register and tone intentionally without losing accuracy.
+    next_topics: []

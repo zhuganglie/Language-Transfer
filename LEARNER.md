@@ -1,28 +1,22 @@
 # Learner Profile
 
-## Name
-Caesar (Zhuganglie)
+## Stable Identity
+- Name: Caesar (Zhuganglie)
+- Native language: Chinese
 
-## Level
-B1/B2 (Advanced assessment in progress.)
+## Placement Baseline
+- Starting placement: B1/B2
+- Assessment status: advanced placement still being refined through conversation
 
-## Native Language
-Chinese
+## Declared Goals
+- (to be discussed in the next planning checkpoint)
 
-## What They Know Well
-Basic self-introduction, Present simple/infinitive, Past simple, Present perfect continuous.
+## Declared Interests and Conversation Domains
+- (to be discovered through real conversation)
 
-## Current Growth Edges
-- Third Conditional (Past hypotheticals).
+## Declared Interaction Preferences
+- Comfortable using Chinese support when clarity matters
 
-## Error Tendencies
-(to be discovered through conversation)
-
-## Interests & Topics They Enjoy
-(to be discovered - use to make examples relevant and engaging)
-
-## Learning Goals
-(to be discussed in first session)
-
-## Preferred Learning Style
-(to be observed - do they like etymology? block-building? conversation? rapid-fire practice?)
+## Stable Notes
+- This file should only change when a durable profile fact changes.
+- Live mastery updates belong in `memory/MEMORY.md`, not here.

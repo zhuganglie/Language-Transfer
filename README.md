@@ -1,87 +1,122 @@
-# Language Transfer English Tutor 🇬🇧🇺🇸
+# Language Transfer English Tutor
 
-An AI-powered English tutor that runs inside your terminal. Built on the [Language Transfer](https://www.languagetransfer.org/) "Thinking Method" — no app, no API, just markdown files that turn any LLM agent into a patient, adaptive English teacher.
+An AI-powered English tutor that runs inside your terminal. This workspace turns a general-purpose agent into a patient, adaptive English teacher using the Language Transfer "Thinking Method".
 
-> *"It's not about remembering — it's about knowing how to find it."*
+## What This Workspace Is
 
-## What Is This?
+This is a prompt-native tutoring system, not an app. The product is the workspace itself:
 
-A collection of carefully crafted markdown files that give an AI agent the personality, teaching methodology, knowledge base, and memory system to tutor you in English from A1 (absolute beginner) to C2 (near-native).
+- control files that define personality, method, and hard rules
+- a structured curriculum and topic guides
+- learner-state files that persist across sessions
 
-It works inside **Gemini CLI**, **Claude Code**, or any agent that reads workspace files.
-
-## How It Works
-
-The tutor doesn't lecture. It guides you to **discover** English through questions:
-
-```
-Teacher: Many words ending in "-tion" are nouns that describe a process. For example, "creation."
-         If you want the action — the verb — you often just take off that ending and add an "-e."
-         So what is the verb for "creation"?
-
-Student: Create?
-
-Teacher: Perfect! Now, if "completion" is the noun... what is the verb?
-
-Student: Complete?
-
-Teacher: You've got it.
-```
-
-Every concept is taught through **pattern discovery**, **block-by-block sentence building**, and **contextual etymology** — never through grammar tables or rote memorization.
+It works inside Gemini CLI, Claude Code, or any agent that can read workspace files.
 
 ## Quick Start
 
 ### Gemini CLI
+
 ```bash
 cd Language-Transfer/
 gemini
-# Just say "let's start a lesson" or "/english"
+# say "let's start a lesson" or "/english"
 ```
 
 ### Claude Code
+
 ```bash
 cd Language-Transfer/
 claude
-# Just say "let's start a lesson" or "/english" - CLAUDE.md auto-loads the tutor
+# say "let's start a lesson" or "/english"
 ```
 
-The tutor will:
-1. Assess your level through natural conversation (not a test)
-2. Start teaching at your edge — where you know things but start to struggle
-3. Remember everything across sessions via local markdown files
+## Architecture
 
----
+### Static Control Layer
 
-## The Teaching Method
+These files define how the tutor behaves and what it knows:
 
-Built on the 6 Language Transfer principles:
+- `RULES.md`: highest-priority conversational constraints
+- `SOUL.md`: personality and voice
+- `AGENT.md`: session loop, state contract, and teaching method
+- `CLAUDE.md` / `GEMINI.md`: host entrypoints
+- `knowledge/concept-map.md`: human-readable curriculum view
+- `knowledge/topic-registry.yaml`: structured planning metadata
+- `knowledge/topics/*.md`: narrative topic guides
+- `knowledge/error-patterns.md`: common error reference
 
-| Principle | What It Means |
-|-----------|--------------|
-| **Pattern Discovery** | Never state rules — guide the student to notice patterns through examples |
-| **Block-by-Block Building** | Complex sentences are built piece by piece, not presented whole |
-| **Error as Compass** | Mistakes reveal thinking patterns — use them to teach, don't just correct |
-| **Contextual Webs** | Connect words through etymology and meaning ("Incredible" = "In" + "Cred") |
-| **Adaptive Pacing** | Speed up when the student is nailing it, slow down when they're struggling |
-| **Conversational Practice** | Real conversations, not drills — use the student's interests |
+### Dynamic Learner Layer
 
-## Memory System
+These files evolve with the learner:
 
-The tutor remembers you across sessions:
+- `LEARNER.md`: durable profile only
+- `memory/MEMORY.md`: live mastery state
+- `memory/sessions/YYYY-MM-DD.md`: checkpoint and session evidence
 
-- **MEMORY.md** — compact profile: your level, solid concepts, shaky areas, recurring error patterns, and preferences
-- **Session notes** — detailed logs of each lesson with specific errors and breakthroughs
-- **Error fingerprinting** — if you make the same mistake 3+ times, it becomes a tracked pattern
-- **Student meta-feedback** — tell the tutor "too many hints" or "more conversation" and it adapts permanently
+The key contract is simple:
 
----
+- `LEARNER.md` should change slowly.
+- `memory/MEMORY.md` should change during real teaching.
+- session notes justify those changes with concrete evidence.
+
+## Workflow
+
+When a lesson starts, the tutor should:
+
+1. Load `RULES.md`, `SOUL.md`, `AGENT.md`, `LEARNER.md`, and `memory/MEMORY.md`
+2. Read `knowledge/topic-registry.yaml` and the latest session note
+3. Ask one diagnostic or review question
+4. Teach with pattern discovery, block-building, and short conversational drills
+5. Save progress at checkpoints, not only at the end
+
+Checkpoint saves should happen:
+
+- after placement or reassessment
+- after a topic changes status
+- after a recurring error becomes a fingerprint
+- after meta-feedback or preference changes
+- before ending or likely interruption
+
+## Knowledge Layer
+
+`knowledge/topic-registry.yaml` is the structured planning source of truth. It records:
+
+- topic id
+- CEFR level
+- prerequisites
+- diagnostic cues
+- mastery signals
+- likely next topics
+
+`knowledge/concept-map.md` stays as the human-readable overview, while individual topic files remain lightweight teaching guides.
+
+`knowledge/concept-map.md` is generated from the registry. Regenerate it with:
+
+```bash
+python3 scripts/generate-concept-map.py
+```
+
+## Validation
+
+Run:
+
+```bash
+./scripts/validate-workspace.sh
+```
+
+This checks the core control files, topic-registry coverage, session note naming, and a few state-boundary invariants.
+
+For prompt-behavior regression checks, use [qa/behavior-regressions.md](/home/caesar/Work/2_Dev/Language-Transfer/qa/behavior-regressions.md).
+
+For Gemini headless checks, run:
+
+```bash
+./scripts/run-gemini-regressions.sh
+```
+
+The regression script uses `--extensions none` to reduce extension noise during prompt checks.
 
 ## Credits
 
-- Teaching methodology inspired by [Language Transfer](https://www.languagetransfer.org/) by Mihalis Eleftheriou — a brilliant, free language course that teaches through guided discovery rather than memorization.
-- This project is an homage to [Mihalis's work](https://www.languagetransfer.org/about).
-
-## License
-
-MIT
+- Teaching methodology inspired by [Language Transfer](https://www.languagetransfer.org/) by Mihalis Eleftheriou
+- This workspace is an homage to Mihalis's guided-discovery approach
